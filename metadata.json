@@ -1,0 +1,6 @@
+{
+  "name": "Zensivix",
+  "description": "Predict the Race. Optimize the Strategy. AI-powered race simulation platform for tire strategy, pit stops, and telemetry analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
